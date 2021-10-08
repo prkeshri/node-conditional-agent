@@ -1,0 +1,19 @@
+{
+  "name": "agent-conditional",
+  "version": "1.0.0",
+  "description": "Conditionally use an agent (maybe to connect to a proxy) or skip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy",
+    "conditional"
+  ],
+  "author": "Praveen Ranjan Keshri",
+  "license": "ISC",
+  "dependencies": {
+    "agent-base": "^6.0.2"
+  },
+  "devDependencies": {}
+}
