@@ -1,6 +1,6 @@
 {
-  "name": "agent-conditional",
-  "version": "1.0.0",
+  "name": "conditional-agent",
+  "version": "1.0.1",
   "description": "Conditionally use an agent (maybe to connect to a proxy) or skip",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,13 @@
   "dependencies": {
     "agent-base": "^6.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prkeshri/node-conditional-agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prkeshri/node-conditional-agent/issues"
+  },
+  "homepage": "https://github.com/prkeshri/node-conditional-agent#readme"
 }
